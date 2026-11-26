@@ -80,5 +80,15 @@ Logs go only to Telegram: **https://t.me/Dialer_Port**. Use the module's **Actio
 
 Also from Tordroid: **Docalto**, an on-device PDF app. Testers are welcome — see https://docalto.tordroid.com/ and say hi on Telegram.
 
+**How to join:**
+1. Open the [testing link](https://play.google.com/apps/testing/com.tordroid.docalto) and tap **Become a tester** (opt-in) with your Google account.
+2. Install the **TEST** version of Docalto from the Play Store with that same account.
+3. Keep it installed for 14 days, and please open the app once every day.
+
+Please do **NOT** install the public version; only the test version installed after opting in counts toward the 12 testers.
+
+🙏 Your help only counts, and Docalto can only pass Google Play Console review, if you tap **Become a tester** and download the TEST (testing) version. Please don't tap **Install** on the public version.
+
+
 ---
 Website: https://tordroid.com/dialer-port/ · Telegram: https://t.me/Dialer_Port · © 1tordroid (Tordroid Universal Labs)
